@@ -11,6 +11,4 @@ Files included in this submission:
 - HealthcareLAB1.ipynb
 - Healthcare_Lab_2.ipynb
 
-Date of submission: 2026-09-08
-
 If you need any additional information, please contact the student.
